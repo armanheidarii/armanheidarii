@@ -1,4 +1,9 @@
-### Hi there 👋
++ Golang
++ C++
++ Python
++ Java
++ Flutter
+
 
 <!--
 **armanheidarii/armanheidarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
