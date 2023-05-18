@@ -1,8 +1,4 @@
-+ Golang
-+ C++
-+ Python
-+ Java
-+ Flutter
+
 
 
 <!--
